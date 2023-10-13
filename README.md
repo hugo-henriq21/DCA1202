@@ -1,4 +1,7 @@
 # PROGRAMAÇÃO AVANÇADA - DCA1202
+
 Repositório criado para a disciplina de programação avançada - UFRN
+
 Grupo: ANNY ADRYELE MARQUES FERREIRA e  HUGO HENRIQUE DE VASCONCELOS FIGUEIREDO
+
 Docente: AGOSTINHO DE MEDEIROS BRITO JUNIOR
