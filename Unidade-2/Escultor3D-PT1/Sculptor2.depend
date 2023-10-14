@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1697049647 source:c:\users\user\documents\sculptor\sculptor.cpp
+	<cstdlib>
+	<iostream>
+	"sculptor.hpp"
+	<vector>
+	<fstream>
+	<cmath>
+
+1697049609 c:\users\user\documents\sculptor\sculptor.hpp
+	"voxel.hpp"
+
+1697049544 c:\users\user\documents\sculptor\voxel.hpp
+
+1697159734 source:c:\users\user\documents\sculptor\main.cpp
+	<iostream>
+	"sculptor.hpp"
+
